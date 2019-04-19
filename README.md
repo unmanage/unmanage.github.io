@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bbf28a84-4bdb-407b-a2fa-32628d27fa3d/deploy-status)](https://app.netlify.com/sites/eleventy-netlify-boilerplate/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d0c3a7d-c6a3-406e-b92f-653fc648f7a4/deploy-status)](https://app.netlify.com/sites/epic-bell-49b083/deploys)
 
 # Eleventy Netlify Boilerplate
 
