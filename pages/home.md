@@ -7,7 +7,6 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
 
 You are welcome to submit through a [Pull Request](https://github.com/unmanage/unmanage.github.io) a post, a section or a typo under the [CC-BY license](https://creativecommons.org/licenses/by/4.0) about one or more of the following topics:
 

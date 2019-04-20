@@ -1,9 +1,7 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "title": "Unmanage",
+  "url": "https://unmanage.org",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "github": "https://github.com/unmanage"
   }
 }
